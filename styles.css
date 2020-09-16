@@ -102,6 +102,48 @@ h1 {
     font-size: 60px;
     font-family:sans-serif;
 }
+#contact p{
+    font-size: 20px;
+    text-align: left;
+    color: black;
+    font-family: sans-serif;
+}
+
+#contact h2{
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    text-align: center;
+    color:black;
+}
+
+#contact{
+    background-image: url(images/national-cancer-institute-L8tWZT4CcVQ-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+#contacts>ul>li{
+    display:inline-block;
+    padding:40px 40px 40px;
+    margin-top:-65px;
+    margin-left: 100px;
+}
+footer{
+    background-color:#1E212D;
+    width: 1500px;
+    height:150px;
+}
+footer h3{
+    color:white;
+}
+
+#Contact {
+height: 100px;
+width: auto;
+}
+
+
 .blog h2{
     text-align:center;
     font-size:50px;
