@@ -32,7 +32,9 @@ h1 {
     font-size: bold;
     padding: 50px;
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
+<<<<<<< HEAD
 .services{
     background-color:wheat;
 }
@@ -76,3 +78,9 @@ h1 {
     height: 25vw;
     object-fit:cover;
 }
+=======
+.carousel-caption h1{
+    color:#0080ff;
+    font-size: 60px;
+}
+>>>>>>> eac6a3f9b21902b6eb093313e9935b80c1ec733b
