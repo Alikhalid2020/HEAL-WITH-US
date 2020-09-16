@@ -35,7 +35,7 @@ h1 {
 }
 
 .services{
-    background-color:wheat;
+    background-color:white;
 }
 .cards {
     margin-left: 150px;
@@ -70,17 +70,18 @@ h1 {
 #about p{
     font-size:24px;
     text-align:center;
-    color:white;
+    color:black;
 }
 .far{
     text-align:center;
     padding:18px;
     font-weight:bold;
-    color:white;
+    color:black;
+    font-size:50px;
 }
 #about {
     padding:30px;
-    background-image:url('./images/daan-stevens-yGUuMIqjIrU-unsplash.jpg');
+    background-image:url('images/image\ 5.jpg');
     background-repeat:no-repeat;
     background-size: cover;
     height: 100vh;
@@ -100,4 +101,9 @@ h1 {
     color:#0080ff;
     font-size: 60px;
     font-family:sans-serif;
+}
+.blog h2{
+    text-align:center;
+    font-size:50px;
+    font-weight:bold;
 }
