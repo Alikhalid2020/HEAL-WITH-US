@@ -82,3 +82,7 @@ h1 {
     font-size: 60px;
     font-family:sans-serif;
 }
+contact img {
+    width: 300%;
+    height: 25vw;
+    object-fit:cover;
