@@ -22,7 +22,7 @@ body {
     text-align: center;
     padding: 15px;
     font-size: 17px;
-    font-family: Helvetica;
+    font-family: Helvetica, sans-serif;
 }
 li {
     display: inline;
@@ -33,9 +33,9 @@ h1 {
     font-size: bold;
     padding: 50px;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
 }
 .carousel-caption h1{
     color:#0080ff;
     font-size: 60px;
+    font-family:sans-serif;
 }
