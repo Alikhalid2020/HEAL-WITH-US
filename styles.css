@@ -22,6 +22,7 @@ body {
     padding: 15px;
     font-size: 17px;
     font-family: Helvetica, sans-serif;
+    text-transform: uppercase;
 }
 li {
     display: inline;
@@ -46,10 +47,12 @@ h1 {
 
 }
 .card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px 0 rgba(207, 171, 171, 0.2);
     transition: 0.3s;
     display: inline-block;
     margin-right: 150px;
+    width: 18%;
+    height: 20%;
 
 }
 .card:hover {
@@ -68,7 +71,7 @@ h1 {
     font-size:50px;
 }
 #about p{
-    font-size:24px;
+    font-size:18px;
     text-align:center;
     color:black;
 }
@@ -81,7 +84,7 @@ h1 {
 }
 #about {
     padding:30px;
-    background-image:url('images/image\ 5.jpg');
+    background-image:url('./images/image\ 7.jpg');
     background-repeat:no-repeat;
     background-size: cover;
     height: 100vh;
@@ -98,7 +101,7 @@ h1 {
     object-fit:cover;
 }
 .carousel-caption h1{
-    color:#0080ff;
+    color:#c8ff00;
     font-size: 60px;
     font-family:sans-serif;
 }
@@ -125,13 +128,13 @@ h1 {
 }
 #contacts>ul>li{
     display:inline-block;
-    padding:40px 40px 40px;
+    padding-left:60px ;
     margin-top:-65px;
     margin-left: 100px;
 }
 footer{
     background-color:#1E212D;
-    width: 1500px;
+    width: 2000px;
     height:150px;
 }
 footer h3{
